@@ -1,0 +1,132 @@
+html {
+
+    background: linear-gradient(to right, rgba(56, 69, 97, 0.8), rgba(255, 0, 0, 0) 50%, rgba(255, 0, 0, 0) 50%, rgba(56, 69, 97, 0.8));
+    background-color: rgb(167, 191, 212);
+    font-size: 18px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    -webkit-text-stroke: 1px rgb(66, 52, 52);
+    text-align: center;
+    text-shadow: 4px 4px 8px rgb(70, 61, 61);
+}
+
+p {
+    font-weight: 100;
+    text-align: center;
+}
+
+div {
+    height: max-content;
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.font1 {
+    font-family: Helvetica;
+    color: rgb(68, 71, 18);
+    font-family: 'Times New Roman', serif;
+    font-size: larger;
+}
+
+.font2 {
+    color: brown;
+}
+
+.font3{
+
+    font-family: serif;
+    font-size: 25px;
+}
+
+.font4 {
+
+    font-family: comic;
+    color: rgb(72, 44, 83);
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.beyond{
+    font-size: xx-large;
+    color: rgb(35, 88, 33);
+}
+
+#unknown{
+
+    font-family: Georgia;
+    font-size: larger;
+    text-shadow: 4px 4px 8px rgb(255, 255, 255);
+}
+#dread {
+    font-weight: bolder;
+    word-spacing: 40px; 
+    letter-spacing: 5px; 
+    color: rgb(80, 22, 80); 
+}
+#water{
+
+    font-size: larger;
+    color: rgb(96, 96, 218);
+    -webkit-text-stroke: 0.5px black;
+}
+#shades,
+#shadow {
+    font-size: 35px;
+    color: rgb(97, 91, 92);
+    -webkit-text-stroke: 1px black;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5); 
+    text-fill-color: rgb(97, 91, 92);
+}
+#grief{
+
+    font-size: 35px;
+    color: rgb(255, 0, 13);
+    text-shadow: 4px 4px 8px rgba(240, 6, 6, 1);
+    -webkit-text-stroke: 1px rgb(99, 45, 45);
+    box-shadow: 10px;
+}
+#hidden{
+
+    font-size: 20px;
+    color: rgb(5, 56, 56);
+    -webkit-text-stroke: 1px black;
+}
+#winds{
+  
+    font-size: 35px;
+    color: rgb(59, 83, 133);
+    -webkit-text-stroke: 1px rgb(59, 153, 156);
+    text-shadow: 4px 4px 8px rgba(255, 255, 255, 0.5); 
+    text-fill-color: rgb(97, 91, 92);
+}
+
+.chorus {
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'times New Roman';
+    color: rgb(78, 11, 11);
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+footer{
+
+    font-size: smaller;
+}
